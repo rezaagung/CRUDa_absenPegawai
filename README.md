@@ -21,6 +21,15 @@ Isi Project
 - Delete absen
 - Laporan berapa kali hadir,cuti dan izin
 
+Hasil Node.js dan Expess.js
+http://localhost:8081
+
+Hasil data absen
+http://localhost:8081/API/absen
+
+Hssil laporan
+http://localhost:8081/API/absen/report/12345 "atau nip pegawai"
+
 Cara menjalankannya 
 - langsung saja 
   "node server.js"
