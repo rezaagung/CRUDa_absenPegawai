@@ -15,6 +15,8 @@ Database
 
 laporan : Laporan CRUD Absen Pegawai.docs
 
+app/dokumentasi merupakan folder yang menyimpan screenshot alur project absen ini
+
 Isi Project
 - Create Absen 
 - Edit Absen 
