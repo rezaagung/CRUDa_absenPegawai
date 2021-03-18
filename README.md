@@ -33,5 +33,6 @@ Hssil laporan
 http://localhost:8081/API/absen/report/12345 "atau nip pegawai"
 
 Cara menjalankannya 
+- buka zip "node_modules"
 - langsung saja 
   "node server.js"
